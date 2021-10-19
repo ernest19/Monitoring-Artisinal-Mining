@@ -6,12 +6,22 @@
 
 
 
+
+<a href="http://ssmportal.cersgis.org/">
+  <img src="https://github.com/ernest19/Monitoring-Artisinal-Mining/blob/main/img/intro.png" width="800">
+</a><br>
+
+
+
 ### Project Area Brief
 
 The project area encompasses the major gold belt and the most designated forest reserves in the moist and wet tropical forest zones of Ghana. It includes all of the Western North and Western Regions and large parts of the Central, Ashanti, Eastern, and Ahafo Regions. Most of this area had been covered by forest, but is now mostly covered by secondary growth vegetation, with subsistence farming and in recent times, illegal mining activities. There are seventy (70) districts and municipal (local government) areas in the project area with forty-eight (48) of these districts affected by illegal mining activities. The local government authorities are vested with the administrative and planning mandates at the local level, with the responsibility for the overall development of their areas of jurisdiction.
 
 
-### Project Area Brief
+
+
+
+### Data and Data Processing
 
 The main earth observation data chosen for identifying the galamsey sites was the European Space Agency’s Sentinel-1 platform which provides data from a dual-polarization C-band Synthetic Aperture Radar (SAR) instrument. This platform was selected because SAR instruments can acquire useful data in all weather conditions (including clouds), obviating considerable cloud masking effort during the image processing stage, given the cloudy weather conditions over the project area most of the time. 
 Therefore, the SAR data is suitable for detecting alluvial gold mining sites under cloudy or rainy conditions. Like all Sentinel data provided under the European Commission's Copernicus Programme, Sentinel-1 data products are provided free of charge to all data users and therefore useful for data-poor countries that are developing monitoring systems for environmental accounting and measuring progress towards the sustainable development goals (SDGs). 
@@ -21,4 +31,10 @@ The output was further refined by using GIS data layers such as road networks, s
 
 
 <img src="https://github.com/ernest19/Monitoring-Artisinal-Mining/blob/main/img/image.png">
+
+
+
+### Link to Script
+
+- [Earth Engine Script ](https://code.earthengine.google.com/8695c5f1c2dd51d4c0aac9b008154776)
 

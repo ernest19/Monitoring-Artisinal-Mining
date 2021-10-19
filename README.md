@@ -18,6 +18,7 @@
 The project area encompasses the major gold belt and the most designated forest reserves in the moist and wet tropical forest zones of Ghana. It includes all of the Western North and Western Regions and large parts of the Central, Ashanti, Eastern, and Ahafo Regions. Most of this area had been covered by forest, but is now mostly covered by secondary growth vegetation, with subsistence farming and in recent times, illegal mining activities. There are seventy (70) districts and municipal (local government) areas in the project area with forty-eight (48) of these districts affected by illegal mining activities. The local government authorities are vested with the administrative and planning mandates at the local level, with the responsibility for the overall development of their areas of jurisdiction.
 
 
+<img src="https://github.com/ernest19/Monitoring-Artisinal-Mining/blob/main/img/infographics.png">
 
 
 
@@ -32,6 +33,11 @@ The output was further refined by using GIS data layers such as road networks, s
 
 <img src="https://github.com/ernest19/Monitoring-Artisinal-Mining/blob/main/img/image.png">
 
+
+
+<a href="https://youtu.be/P3eIoQicb_E">
+  <img src="https://github.com/ernest19/Monitoring-Artisinal-Mining/blob/main/img/video.png" width="800">
+</a><br>
 
 
 ### Link to Script

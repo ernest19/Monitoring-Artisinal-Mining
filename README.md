@@ -20,5 +20,5 @@ The output was further refined by using GIS data layers such as road networks, s
 
 
 
-<img src="https://github.com/ernest19/SNV/blob/main/img/partners/FC.png"
+<img src="https://github.com/ernest19/Monitoring-Artisinal-Mining/blob/main/img/image.png"
 

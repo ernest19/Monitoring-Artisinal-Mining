@@ -2,7 +2,7 @@
 
 ## MAPPING AND MONITORING ARTISANAL MINING USING REMOTE SENSING TECHNOLOGIES IN GHANA.
 
-![MONITORING ARTISANAL MINING](https://img.shields.io/static/v1?label=ARTISANAL&message=MINING%&color=blue)
+![MONITORING ARTISANAL MINING](https://img.shields.io/static/v1?label=ARTISANAL&message=MINING&color=blue)
 
 
 
